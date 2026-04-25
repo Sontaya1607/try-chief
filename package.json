@@ -1,0 +1,5 @@
+{
+  "name": "try-chief",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"]
+}
